@@ -53,5 +53,6 @@ different C implementations of Moonlight
 1. Fork us
 2. Write code
 3. Send Pull Requests
+4. Have fun
 
 Update README
