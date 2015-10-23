@@ -29,7 +29,6 @@ More information about installing and runnning Moonlight Embedded is available o
 * Pair Moonlight Embedded with the GFE server
 * Accept the pairing confirmation on your PC
 * Connect to the GFE Server with Moonlight Embedded
-* Play games!
 
 ## Bugs
 
